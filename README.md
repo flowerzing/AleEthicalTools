@@ -1,4 +1,4 @@
-# AleEthicalTools v1.0.0 - Suite Profesional de Auditoría Ética
+# AleEthicalTools v1.0.1
 
 ## 📋 Descripción
 
